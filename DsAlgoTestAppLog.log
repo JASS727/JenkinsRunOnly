@@ -1,0 +1,4 @@
+[INFO ]2023-07-11 10:07:52.984 [main]DsAlgoTestLogger-Loading Config Properties 
+[INFO ]2023-07-11 10:07:52.992 [main]DsAlgoTestLogger-Initializing the DriverFactory class 
+[INFO ]2023-07-11 10:07:52.993 [main]DsAlgoTestLogger-chrome browser is Launching
+[INFO ]2023-07-11 10:08:05.314 [main]DsAlgoTestLogger-Closing Browser
