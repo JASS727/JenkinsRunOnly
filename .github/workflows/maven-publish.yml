@@ -26,4 +26,4 @@ jobs:
         cache: maven
 
     - name: Build with Maven
-      run: mvn -B clean verify -Dtesng.dtd.http=true -DskipSurefireReport=true --file DsAlgoTest/pom.xml
+      run: mvn -B clean verify -Dtesng.dtd.http=true -DskipSurefireReport=true --file DsAlgoTest2/pom.xml
